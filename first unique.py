@@ -13,4 +13,4 @@ for char in str:
         break
 else:
 
-    print("no unique char")
+    print("no unique char") 
